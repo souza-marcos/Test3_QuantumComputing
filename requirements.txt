@@ -1,0 +1,6 @@
+qiskit==2.0.1
+matplotlib==3.10.3
+pylatexenc==2.10
+qiskit-ibm-runtime==0.38.0
+pandas==2.2.3
+numpy
